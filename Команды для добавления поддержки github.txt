@@ -1,0 +1,2 @@
+go mod init Ex30.4
+go get -u github.com/lib/pq
