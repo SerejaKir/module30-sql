@@ -1,4 +1,4 @@
-module Ex20.8.go
+module interface.go
 
 go 1.23.5
 
